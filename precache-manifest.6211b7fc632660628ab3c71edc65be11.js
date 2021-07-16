@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52282cd102f694bc5e6ad9626efc2ee7",
+    "revision": "95aa0195871656968a339ef4f1faa1e2",
     "url": "/stibeeLab-onBoard/index.html"
   },
   {
-    "revision": "d7a33f030ac3f13632b5",
+    "revision": "14531d7dbeebeb7b95f4",
     "url": "/stibeeLab-onBoard/static/css/main.aa0dfed3.chunk.css"
   },
   {
-    "revision": "c5a4f797aae19ff88932",
-    "url": "/stibeeLab-onBoard/static/js/2.8e9f0561.chunk.js"
+    "revision": "535e5c6152a96e0a845b",
+    "url": "/stibeeLab-onBoard/static/js/2.72f7173c.chunk.js"
   },
   {
     "revision": "c3ccefa8c26d9c4526d0730515716d1c",
-    "url": "/stibeeLab-onBoard/static/js/2.8e9f0561.chunk.js.LICENSE"
+    "url": "/stibeeLab-onBoard/static/js/2.72f7173c.chunk.js.LICENSE"
   },
   {
-    "revision": "d7a33f030ac3f13632b5",
-    "url": "/stibeeLab-onBoard/static/js/main.b8662527.chunk.js"
+    "revision": "14531d7dbeebeb7b95f4",
+    "url": "/stibeeLab-onBoard/static/js/main.1b5d907e.chunk.js"
   },
   {
     "revision": "e1043c3a5eeea29fa2fb",
