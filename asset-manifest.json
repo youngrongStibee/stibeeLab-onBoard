@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stibeeLab-onBoard/static/css/main.aa0dfed3.chunk.css",
-    "main.js": "/stibeeLab-onBoard/static/js/main.6d98d8fb.chunk.js",
-    "main.js.map": "/stibeeLab-onBoard/static/js/main.6d98d8fb.chunk.js.map",
+    "main.js": "/stibeeLab-onBoard/static/js/main.f6453020.chunk.js",
+    "main.js.map": "/stibeeLab-onBoard/static/js/main.f6453020.chunk.js.map",
     "runtime-main.js": "/stibeeLab-onBoard/static/js/runtime-main.679920ed.js",
     "runtime-main.js.map": "/stibeeLab-onBoard/static/js/runtime-main.679920ed.js.map",
     "static/js/2.8e9f0561.chunk.js": "/stibeeLab-onBoard/static/js/2.8e9f0561.chunk.js",
     "static/js/2.8e9f0561.chunk.js.map": "/stibeeLab-onBoard/static/js/2.8e9f0561.chunk.js.map",
     "index.html": "/stibeeLab-onBoard/index.html",
-    "precache-manifest.071d160568eef7cfd02c1fdf1633d032.js": "/stibeeLab-onBoard/precache-manifest.071d160568eef7cfd02c1fdf1633d032.js",
+    "precache-manifest.98184cdcb2488c101865ffb72343c6c1.js": "/stibeeLab-onBoard/precache-manifest.98184cdcb2488c101865ffb72343c6c1.js",
     "service-worker.js": "/stibeeLab-onBoard/service-worker.js",
     "static/css/main.aa0dfed3.chunk.css.map": "/stibeeLab-onBoard/static/css/main.aa0dfed3.chunk.css.map",
     "static/js/2.8e9f0561.chunk.js.LICENSE": "/stibeeLab-onBoard/static/js/2.8e9f0561.chunk.js.LICENSE",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.679920ed.js",
     "static/js/2.8e9f0561.chunk.js",
     "static/css/main.aa0dfed3.chunk.css",
-    "static/js/main.6d98d8fb.chunk.js"
+    "static/js/main.f6453020.chunk.js"
   ]
 }
