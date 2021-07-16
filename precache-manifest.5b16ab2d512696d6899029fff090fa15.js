@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e4891bc619259062befe74c649ba537",
+    "revision": "0a8ea38db7d93926a534f93334248135",
     "url": "/stibeeLab-onBoard/index.html"
   },
   {
-    "revision": "0b0ad9a60c28812bc408",
+    "revision": "54a162a28cf4cb10e7c2",
     "url": "/stibeeLab-onBoard/static/css/main.aa0dfed3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stibeeLab-onBoard/static/js/2.8e9f0561.chunk.js.LICENSE"
   },
   {
-    "revision": "0b0ad9a60c28812bc408",
-    "url": "/stibeeLab-onBoard/static/js/main.9785ad42.chunk.js"
+    "revision": "54a162a28cf4cb10e7c2",
+    "url": "/stibeeLab-onBoard/static/js/main.cee645ab.chunk.js"
   },
   {
     "revision": "e1043c3a5eeea29fa2fb",
