@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Redirect</title>
   <script>
-    let rootSegmentCount = 0;
+    let rootSegmentCount = 1;
 
     const { origin, pathname, search, hash } = window.location;
     const rootPath = pathname.split('/').slice(0, 1 + rootSegmentCount).join('/');
