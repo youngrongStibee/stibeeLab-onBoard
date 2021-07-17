@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95aa0195871656968a339ef4f1faa1e2",
+    "revision": "d2e572c464b98803db6b93e13f430ef5",
     "url": "/stibeeLab-onBoard/index.html"
   },
   {
