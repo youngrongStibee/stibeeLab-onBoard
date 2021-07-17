@@ -9,13 +9,12 @@
   <script>
     let rootSegmentCount = 0;
 
-    const { location } = window;
-    const { origin, pathname, search, hash } = location;
+    const { origin, pathname, search, hash } = window.location;
     const rootPath = pathname.split('/').slice(0, 1 + rootSegmentCount).join('/');
     const restPath = pathname.slice(1).split('/').slice(rootSegmentCount).join('/').replace(/&/g, '~and~');
     const query = search ? '&' + search.slice(1).replace(/&/g, '~and~') : '';
 
-    location.replace(`${origin}${rootPath}/?/${restPath}${query}${hash}`);
+    window.location.replace(`${origin}${rootPath}/?/${restPath}${query}${hash}`);
   </script>
 </head>
 
