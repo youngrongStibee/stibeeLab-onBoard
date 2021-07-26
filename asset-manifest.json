@@ -1,29 +1,36 @@
 {
   "files": {
-    "main.css": "/stibeeLab-onBoard/static/css/main.aa0dfed3.chunk.css",
-    "main.js": "/stibeeLab-onBoard/static/js/main.a8a8b666.chunk.js",
-    "main.js.map": "/stibeeLab-onBoard/static/js/main.a8a8b666.chunk.js.map",
+    "main.css": "/stibeeLab-onBoard/static/css/main.de20eb87.chunk.css",
+    "main.js": "/stibeeLab-onBoard/static/js/main.657a4aef.chunk.js",
+    "main.js.map": "/stibeeLab-onBoard/static/js/main.657a4aef.chunk.js.map",
     "runtime-main.js": "/stibeeLab-onBoard/static/js/runtime-main.679920ed.js",
     "runtime-main.js.map": "/stibeeLab-onBoard/static/js/runtime-main.679920ed.js.map",
-    "static/js/2.bb27c824.chunk.js": "/stibeeLab-onBoard/static/js/2.bb27c824.chunk.js",
-    "static/js/2.bb27c824.chunk.js.map": "/stibeeLab-onBoard/static/js/2.bb27c824.chunk.js.map",
+    "static/js/2.855e3ad8.chunk.js": "/stibeeLab-onBoard/static/js/2.855e3ad8.chunk.js",
+    "static/js/2.855e3ad8.chunk.js.map": "/stibeeLab-onBoard/static/js/2.855e3ad8.chunk.js.map",
     "index.html": "/stibeeLab-onBoard/index.html",
-    "precache-manifest.547195760da3156d4f05c6c0d4db2ae5.js": "/stibeeLab-onBoard/precache-manifest.547195760da3156d4f05c6c0d4db2ae5.js",
+    "precache-manifest.6b20a6dbe3ac2d01f3844ef10755b119.js": "/stibeeLab-onBoard/precache-manifest.6b20a6dbe3ac2d01f3844ef10755b119.js",
     "service-worker.js": "/stibeeLab-onBoard/service-worker.js",
-    "static/css/main.aa0dfed3.chunk.css.map": "/stibeeLab-onBoard/static/css/main.aa0dfed3.chunk.css.map",
-    "static/js/2.bb27c824.chunk.js.LICENSE": "/stibeeLab-onBoard/static/js/2.bb27c824.chunk.js.LICENSE",
+    "static/css/main.de20eb87.chunk.css.map": "/stibeeLab-onBoard/static/css/main.de20eb87.chunk.css.map",
+    "static/js/2.855e3ad8.chunk.js.LICENSE": "/stibeeLab-onBoard/static/js/2.855e3ad8.chunk.js.LICENSE",
+    "static/media/align-center.svg": "/stibeeLab-onBoard/static/media/align-center.9e8ef644.svg",
+    "static/media/align-left.svg": "/stibeeLab-onBoard/static/media/align-left.c5e595b1.svg",
+    "static/media/align-right.svg": "/stibeeLab-onBoard/static/media/align-right.11793396.svg",
     "static/media/check.svg": "/stibeeLab-onBoard/static/media/check.3d89937c.svg",
     "static/media/circle.svg": "/stibeeLab-onBoard/static/media/circle.ee27b3f2.svg",
+    "static/media/close.svg": "/stibeeLab-onBoard/static/media/close.5699a310.svg",
     "static/media/curved.svg": "/stibeeLab-onBoard/static/media/curved.96c1d696.svg",
+    "static/media/duplicate.svg": "/stibeeLab-onBoard/static/media/duplicate.2b039618.svg",
+    "static/media/image.svg": "/stibeeLab-onBoard/static/media/image.631ce61b.svg",
     "static/media/rect.svg": "/stibeeLab-onBoard/static/media/rect.2549d82c.svg",
     "static/media/save.svg": "/stibeeLab-onBoard/static/media/save.573388b9.svg",
     "static/media/select.svg": "/stibeeLab-onBoard/static/media/select.29617c67.svg",
-    "static/media/text.svg": "/stibeeLab-onBoard/static/media/text.53bb421c.svg"
+    "static/media/text.svg": "/stibeeLab-onBoard/static/media/text.53bb421c.svg",
+    "static/media/trash.svg": "/stibeeLab-onBoard/static/media/trash.12e40e7c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.679920ed.js",
-    "static/js/2.bb27c824.chunk.js",
-    "static/css/main.aa0dfed3.chunk.css",
-    "static/js/main.a8a8b666.chunk.js"
+    "static/js/2.855e3ad8.chunk.js",
+    "static/css/main.de20eb87.chunk.css",
+    "static/js/main.657a4aef.chunk.js"
   ]
 }
