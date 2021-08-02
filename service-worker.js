@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stibeeLab-onBoard/precache-manifest.caf10d6db606e6ffa5b51a7189d56421.js"
+  "/stibeeLab-onBoard/precache-manifest.904b0103af9b0b6ceeb1495f3ab105d8.js"
 );
 
 self.addEventListener('message', (event) => {
